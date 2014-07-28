@@ -1,0 +1,13 @@
+{
+
+    "hostnameReceiver":"localhost",
+    "portReceiver":8060,
+
+    "hostnameClientService":"localhost",
+    "portClientService":1111,
+
+    "hostnameConnected":"",
+    "portConnected":0,
+
+	"id":1
+}
